@@ -2,6 +2,12 @@
 
 I'm a certified Java Professional with a passion for creating efficient and scalable solutions using core and advanced Java, Oracle, and Spring Boot. I have a strong background in web development, IoT, and payment integration. Let's build something amazing together!
 
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahidgul107&show_icons=true&count_private=true&hide=prs,issues,contribs)
+
+![Profile Views](https://profile-counter.glitch.me/{zahidgul107}/count.svg)
+
 ## 🚀 About Me
 
 - 💼 **Current Position:** Java Developer at ASTE, Srinagar
