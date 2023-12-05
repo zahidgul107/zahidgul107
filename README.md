@@ -1,52 +1,57 @@
-# Hello, I'm [Your Name] 👋
+# Hi there, I'm Zahid Gul! 👋
 
-Welcome to my GitHub profile! I'm passionate about [your interests or what you work on], and here you'll find a collection of my projects and contributions.
+I'm a certified Java Professional with a passion for creating efficient and scalable solutions using core and advanced Java, Oracle, and Spring Boot. I have a strong background in web development, IoT, and payment integration. Let's build something amazing together!
 
-## About Me
+## 🚀 About Me
 
-- 🌍 Location: [Your Location]
-- 💼 Occupation: [Your Job/Role]
-- 🎓 Education: [Your Education Background]
-- 📧 Email: [Your Email Address]
-- 📱 Connect with me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/), [Twitter](https://twitter.com/your-twitter-handle)
+- 💼 **Current Position:** Java Developer at ASTE, Srinagar
+- 🌍 **Location:** Srinagar, Jammu & Kashmir, India
+- 📧 **Email:** zahidgul107@gmail.com
+- 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/zahid-gul-9056671b2/), [GitHub](https://github.com/zahidgul107), [Portfolio](https://portfolio-ui-one.vercel.app/)
 
-## Technologies & Tools
+## 💻 Skills & Accomplishments
 
-- 🔧 [Tech/Tool 1]
-- 🔧 [Tech/Tool 2]
-- 🔧 [Tech/Tool 3]
-- ...
+- **Core Java:** Object-oriented programming, data structures, and algorithms.
+- **Advanced Java:** Multithreading, collections, JDBC, serialization.
+- **Java Frameworks:** Spring Boot, Hibernate, JSON.
+- **Database:** SQL queries, database design, Oracle, MySQL.
+- **Web Development:** HTML, CSS, JavaScript, jQuery, Bootstrap, Thymeleaf, JSP, Microservices architecture, Apache Tomcat, React.
+- **Agile Methodology:** Scrum, Jira, Agile Development.
+- **Version Control:** Git, SVN.
+- **Testing & Debugging:** Unit testing, debugging, code quality.
+- **Problem Solving:** Strong analytical skills.
+- **Communication:** Effective collaboration and communication.
+- **Continuous Learning:** Stay updated with emerging technologies.
 
-## Featured Projects
+## 🛠️ Projects
 
-1. [Project Name 1](link-to-repo) - Brief description.
-2. [Project Name 2](link-to-repo) - Brief description.
-3. ...
+### Expenses Management System (03/2023 – 08/2023)
 
-## GitHub Stats
+- Developed efficient and scalable Java code using Spring Boot, resulting in a 20% improvement in application performance.
+- Implemented user authentication and authorization mechanisms for secure access.
+- Developed reporting and barcode module using JasperReports and ZXing library.
+- Resolved critical bugs, achieving a bug fix success rate of 95%.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs,issues,contribs)
+### IoT Sensor Data Monitoring (12/2023 – 02/2023)
 
-## Skills
+- Designed and developed backend infrastructure using Spring Boot.
+- Led the design, development, and maintenance of the backend architecture.
+- Implemented robust APIs for secure and efficient data transmission from sensor nodes.
 
-- Programming Languages: [Language 1], [Language 2], [Language 3]
-- Frameworks & Libraries: [Framework 1], [Library 2], [Framework 3]
-- ...
+## 🌱 Education
 
-## Open Source Contributions
+- **B.E (Bachelor of Engineering)** in Electronics & Communication Engg., University of Jammu, Jammu (2022) - CGPA: 8/10
 
-I actively contribute to open source projects. Some notable contributions include:
+## 📜 Certifications
 
-- [Contribution 1](link-to-contribution)
-- [Contribution 2](link-to-contribution)
-- ...
+- The Web Developer Bootcamp 2022 (Udemy)
 
-## Let's Connect
+## 🤝 Let's Connect
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat. I'm always open to connecting with fellow developers and tech enthusiasts.
+Feel free to reach out for collaboration, questions, or just a friendly chat. I'm always open to connecting with fellow developers and tech enthusiasts.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zahid-gul-9056671b2/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/zahidgul107)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://portfolio-ui-one.vercel.app/)
 
 Happy coding! 🚀
