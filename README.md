@@ -19,7 +19,7 @@ I'm a certified Java Professional with a passion for creating efficient and scal
 - 💼 **Current Position:** Java Developer at ASTE, Srinagar
 - 🌍 **Location:** Srinagar, Jammu & Kashmir, India
 - 📧 **Email:** zahidgul107@gmail.com
-- 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/zahid-gul-9056671b2/), [GitHub](https://github.com/zahidgul107), [Portfolio](https://portfolio-ui-one.vercel.app/)
+- 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/zahid-gul-9056671b2/), [GitHub](https://github.com/zahidgul107), [Portfolio](https://portfolio-zahidgul107.vercel.app/)
 
 ## 💻 Skills & Accomplishments
 
@@ -64,6 +64,6 @@ Feel free to reach out for collaboration, questions, or just a friendly chat. I'
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/zahid-gul-9056671b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/zahidgul107)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://portfolio-ui-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://portfolio-zahidgul107.vercel.app/)
 
 Happy coding! 🚀
