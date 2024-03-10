@@ -1,4 +1,4 @@
-# Hi there, I'm Zahid Gul! 👋
+# Hi There!, I'M ZAHID GUL 👋
 
 I'm a certified Java Professional with a passion for creating efficient and scalable solutions using core and advanced Java, Oracle, and Spring Boot. I have a strong background in web development, IoT, and payment integration. Let's build something amazing together!
 
