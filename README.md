@@ -1,4 +1,4 @@
-# Hi There!, I'M ZAHID GUL 👋
+# Hi There!, I'M ZAHID GUL <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a certified Java Professional with a passion for creating efficient and scalable solutions using core and advanced Java, Oracle, and Spring Boot. I have a strong background in web development, IoT, and payment integration. Let's build something amazing together!
 
